@@ -64,12 +64,11 @@ An attendance tracker app built to log the attendance of students of our univers
 ## Education
 
 ##### Anna University - Chennai, IN
-
 _B.Tech in Information Technology | April 2018_
 
 ## Contact
 
-[emvignesh16@gmail.com](mailto://emvignesh16@gmail.com)
+[emvignesh16@gmail.com](mailto:emvignesh16@gmail.com)
 
 [github.com/vignesh-em](https://github.com/vignesh-em)
 
