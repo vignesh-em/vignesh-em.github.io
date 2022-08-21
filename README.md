@@ -13,14 +13,14 @@ _Swiggy | Bengaluru, IN | Sep 2021 - Present_
 - Building Swiggy's grocery delivery initiative - Instamart.
 
 ### Software Engineer II - Android
-_Trimble Inc | Chennai, IN | Dec 2020 - Sep 2021_
+_Trimble | Chennai, IN | Dec 2020 - Sep 2021_
 
 - Built android app extensions for Trimble's agricultural field management system - Precision IQ.
 - Revamped, redesigned, and added new features to the theme configuration screen in Precision IQ.
 - Built clean and reusable UI widget components used by the app on multiple screens.
 
 ### Software Engineer - Android
-_Zoho Corporation | Chennai, IN | Jun 2018 - Nov 2020_
+_Zoho | Chennai, IN | Jun 2018 - Nov 2020_
 
 - Improved the architecture of the calendar module of Zoho Mail using clean architecture principles.
 - Developed core functionalities and new features for the calendar module of the application.
