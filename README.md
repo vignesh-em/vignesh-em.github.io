@@ -10,7 +10,8 @@
 ### Software Dev Engineer II - Android
 _Swiggy | Bengaluru, IN | Sep 2021 - Present_
 
-- Building Swiggy's grocery delivery initiative - Instamart.
+- Buiding app frameworks for Swiggy's growth initiatives.
+- Built Swiggy's grocery delivery service - Instamart.
 
 ### Software Engineer II - Android
 _Trimble | Chennai, IN | Dec 2020 - Sep 2021_
@@ -56,6 +57,7 @@ An attendance tracker app built to log the attendance of students of our univers
 
 ## Recognition
 
+- Awarded _MVP_ for making valuable contributions to the team. (_Swiggy_)
 - Ranked 7th in an internal hackathon held in _Swiggy_.
 - _Truly Trimble_ - for timely contribution towards resolving a critical bug. (_Trimble_)
 - _Passionate Performer_ - for improving the calendar module's architecture. (_Zoho_)
