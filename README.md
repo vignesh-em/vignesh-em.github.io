@@ -3,7 +3,7 @@
 
 - [emvignesh16@gmail.com](mailto:emvignesh16@gmail.com)
 - [github.com/vignesh-em](https://github.com/vignesh-em)
-- [linkedin.com/in/vignesh-muralidharan](https://www.linkedin.com/in/vignesh-muralidharan/)
+- [linkedin.com/in/vignesh-em](https://www.linkedin.com/in/vignesh-em/)
 
 ## Experience
 
