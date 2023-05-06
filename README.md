@@ -31,14 +31,13 @@ _Zoho | Chennai, IN | Jun 2018 - Nov 2020_
 
 ## Skills
 
-
-Modern Android Development
-Jetpack Compose
-Kotlin / Java
-Hilt / Dagger
-Data Structures / Algorithm Design
-Design Patterns / Software Architecture / UML
-CI/CD
+- Modern Android Development
+- Jetpack Compose
+- Kotlin / Java
+- Hilt / Dagger
+- Data Structures / Algorithm Design
+- Design Patterns / Software Architecture / UML
+- CI/CD
 
 ## Accomplishments
 
