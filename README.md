@@ -10,65 +10,57 @@
 ### Software Dev Engineer II - Android
 _Swiggy | Bengaluru, IN | Sep 2021 - Present_
 
-- Buiding app frameworks for Swiggy's growth initiatives.
-- Built Swiggy's grocery delivery service - Instamart.
+- Led app engineering efforts for growth initiatives - Fullscreen Takeovers, Bottom Bar Popups, Expiration Reminders, Exit Interventions.
+- Conducted highly insightful code reviews and provided valuable feedback to the team to improve code quality.
+- Set up CI/CD workflows using Bitrise and GitHub Actions for day to day operations of the team.
+- Created Jira boards, handled app release cycles and delivered the updates in the expected timelines.
+- Hosted live sessions to guide the team on critical features and suggested solutions to problems impacting the team.
 
 ### Software Engineer II - Android
 _Trimble | Chennai, IN | Dec 2020 - Sep 2021_
 
 - Built android app extensions for Trimble's agricultural field management system - Precision IQ.
 - Revamped, redesigned, and added new features to the theme configuration screen in Precision IQ.
-- Built clean and reusable UI widget components used by the app on multiple screens.
+- Maintained the import-export module in Precision IQ and resolve bugs that arise.
 
 ### Software Engineer - Android
 _Zoho | Chennai, IN | Jun 2018 - Nov 2020_
 
-- Improved the architecture of the calendar module of Zoho Mail using clean architecture principles.
-- Developed core functionalities and new features for the calendar module of the application.
+- Improved the architecture of the calendar module of Zoho Mail and developed core functionalities and new features.
 - Built reusable UI widgets and libraries used by other apps developed in the team.
-
-
-## Personal Projects
-
-##### Movie Bucket - Android App
-
-A movie watch-list for android built using Material Components, Architecture Components, MVVM, and Kotlin co-routines.
-
-##### Attendance Tracker - Android App
-
-An attendance tracker app built to log the attendance of students of our university
 
 ## Skills
 
-- Kotlin / Java
-- Android App Development
-- Jetpack Components
-- Algorithm Design
-- Data Structure Design
-- Object-oriented Design
-- MVVM Architecture
+
+Modern Android Development
+Jetpack Compose
+Kotlin / Java
+Hilt / Dagger
+Data Structures / Algorithm Design
+Design Patterns / Software Architecture / UML
+CI/CD
 
 ## Accomplishments
 
-- Improved the screen render time by **44.8%** by removing nested views and replacing them with a single ConstraintLayout.
-- Increased the _delete_ performance by **12%** by storing XML content in separate files and processing them.
-- Reduced total network calls by a minimum of **50%** by combining multiple API requests to a single request.
+- Fixed a crash that happened during initialisation of the app which improved the crash free rate by **0.5%**.
+- Created app frameworks for Swiggy’s Growth Initiatives that increased Instamart’s incremental orders by **8.5k** per day.
+- Reduced unnecessary network traffic by **24.59%** that happens on placing orders on Swiggy’s Android Application.
 
 
 ## Recognition
 
-- Awarded _MVP_ for making valuable contributions to the team. (_Swiggy_)
-- Ranked 7th in an internal hackathon held in _Swiggy_.
-- _Truly Trimble_ - for timely contribution towards resolving a critical bug. (_Trimble_)
-- _Passionate Performer_ - for improving the calendar module's architecture. (_Zoho_)
+- Ranked _7th_ in an internal hackathon held in Swiggy.
+- _Most Valuable Player_ - for speedy execution of projects in Instamart and Genie and exhibiting ‘Do More with Less’ attitude - _Swiggy_
+- _Truly Trimble_ - for timely contribution towards resolving a critical bug - _Trimble_
+- _Passionate Performer_ - for improving the calendar module's architecture - _Zoho_
 
 
 ## Abilities
 
-- Communicate and collaborate efficiently.
-- Learn new technologies quickly.
-- Design efficient and reusable solutions.
-- Write clean, modular, and testable code.
+- Evaluate multiple design options and develop extensible designs
+- Write performant, clean, modular, resusable, testable code with less coupling
+- Communicate and collaborate efficiently
+- Learn new technologies quickly
 
 ## Education
 
